@@ -1,3 +1,14 @@
 header {
     background-color: rgb(79, 6, 6);
+    color: blanchedalmond;
+    text-align: center;
+}
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+body {
+    background-image: url(record.png);
+    background-repeat: inherit;
+    margin: 0px;
 }
